@@ -1,0 +1,15 @@
+/home/lipin-dev/projetos-C#/Editor/bin/Debug/net6.0/Editor
+/home/lipin-dev/projetos-C#/Editor/bin/Debug/net6.0/Editor.deps.json
+/home/lipin-dev/projetos-C#/Editor/bin/Debug/net6.0/Editor.runtimeconfig.json
+/home/lipin-dev/projetos-C#/Editor/bin/Debug/net6.0/Editor.dll
+/home/lipin-dev/projetos-C#/Editor/bin/Debug/net6.0/Editor.pdb
+/home/lipin-dev/projetos-C#/Editor/obj/Debug/net6.0/Editor.csproj.AssemblyReference.cache
+/home/lipin-dev/projetos-C#/Editor/obj/Debug/net6.0/Editor.GeneratedMSBuildEditorConfig.editorconfig
+/home/lipin-dev/projetos-C#/Editor/obj/Debug/net6.0/Editor.AssemblyInfoInputs.cache
+/home/lipin-dev/projetos-C#/Editor/obj/Debug/net6.0/Editor.AssemblyInfo.cs
+/home/lipin-dev/projetos-C#/Editor/obj/Debug/net6.0/Editor.csproj.CoreCompileInputs.cache
+/home/lipin-dev/projetos-C#/Editor/obj/Debug/net6.0/Editor.dll
+/home/lipin-dev/projetos-C#/Editor/obj/Debug/net6.0/refint/Editor.dll
+/home/lipin-dev/projetos-C#/Editor/obj/Debug/net6.0/Editor.pdb
+/home/lipin-dev/projetos-C#/Editor/obj/Debug/net6.0/Editor.genruntimeconfig.cache
+/home/lipin-dev/projetos-C#/Editor/obj/Debug/net6.0/ref/Editor.dll
