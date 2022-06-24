@@ -71,6 +71,7 @@ namespace Edit
             using (var arquivo = new StreamReader(pacote))
             {
                 string texto = arquivo.ReadToEnd();
+                Console.WriteLine(texto);
             }
             Console.WriteLine("");
             Console.ReadLine();
